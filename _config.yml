@@ -1,0 +1,7 @@
+title: My Awesome Site
+description: "Welcome to my website and blog."
+baseurl: ""                # leave empty for a root site
+url: "https://username.github.io"  # replace with your GitHub Pages URL
+theme: minima              # using the default 'minima' theme
+plugins:
+  - jekyll-feed
